@@ -24,7 +24,9 @@ The **AI Ticket Manager** is a customer support ticket processing application bu
 2. Streamlit
 3. Other necessary Python packages can be installed using the following command:
 
-```bash
+
+
+bash
 pip install -r requirements.txt
 
 Environment Variables
